@@ -1,6 +1,3 @@
-
-
-```md
 <h1 align="center">Hi 👋, I'm Murapakala Kumarswamy</h1>
 <h3 align="center">🎓 Diploma 3rd Year Student | 🎮 Game Developer Enthusiast | 📱 App Developer</h3>
 
