@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murapakala Kumarswamy</h1>
-<h3 align="center">🎓 Diploma 3rd Year Student | 🎮 Game Developer Enthusiast | 📱 App Developer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Game+Development+Enthusiast;Web+Developer;Java+%7C+Python+Programmer;Always+Learning+New+Technologies&center=true&width=500&height=45">
@@ -143,39 +143,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-```
 
----
-
-## 🔥 Premium Version (More Attractive)
-
-Add this animated banner at the top:
-
-```html
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Murapakala%20Kumarswamy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Developer%20|%20Web%20Developer%20|%20Student&descAlignY=55"/>
 </p>
-```
 
-And use this visitor counter:
-
-```html
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 </p>
-```
 
-### Extra Interactive Badges
 
-```md
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-```
 
-This style looks professional, modern, and stands out when recruiters or collaborators visit your GitHub profile. Just replace `YOUR_USERNAME`, LinkedIn, and email with your actual details.
 
 
 <!--
